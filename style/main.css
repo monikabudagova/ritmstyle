@@ -133,7 +133,7 @@ main {
 }
 
 .seance-item:hover {
-    filter: brightness(1.4) drop-shadow( 0 5px 10px #018ABE );
+    filter: brightness(1.4) drop-shadow( 0 5px 10px #0188be27 );
     border: solid 3px #018ABE;
 }
 
