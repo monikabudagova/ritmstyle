@@ -222,3 +222,61 @@ text-wrap:balance
     width: 40%;
    
 }
+#price{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
+.price{
+    display: flex;
+    align-items: center;
+    gap: 134px;
+    color: white;
+}
+.price h3{
+    font-size: 20px;
+    text-align: center;
+}
+.price ul{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 416px;
+}
+.price li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact{
+    background-color: #018ABE;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 20px;
+    padding: 35px 45px;
+    border-radius: 10px;
+    color: white;
+}
+.contact ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0;
+}
+.contact li{
+    display: flex;
+    list-style: none;
+    gap: 22px;
+}
+.contact a{
+    border-color: white;
+    color: #018ABE;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    width: 155px;
+}
+
+
