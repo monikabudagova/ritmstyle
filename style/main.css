@@ -316,7 +316,14 @@ footer {
     align-items: center;
     padding: 30px;
     color: white;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    font-weight: 400;
 }
+footer a{
+    color: white;
+}
+
 
 .cnt {
     display: flex;
